@@ -3,5 +3,5 @@ I like programming, photography and a lot of other random shit. I've been progra
 
 Outside of coding, I’m into photography and gaming. I usually play competitive stuff but also enjoy story or cozy games when I feel like it.  
 
-Check out my projects here: [GitHub Repositories](https://github.com/marindeveloper?tab=repositories) 
+Check out my projects here: [GitHub Repositories](https://github.com/marindeveloper?tab=repositories) <br/>
 Or my website: [marindeveloper.github.io](https://marindeveloper.github.io)
