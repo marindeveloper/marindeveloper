@@ -6,4 +6,4 @@ Outside of coding, I’m into photography and gaming. I usually play competitive
 Check out my projects down below or here: [GitHub Repositories](https://github.com/marindeveloper?tab=repositories) <br/> 
 Or my website: [marindeveloper.github.io](https://marindeveloper.github.io)
 
-:D
+:D 
